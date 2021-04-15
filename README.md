@@ -1,5 +1,3 @@
-# DimaShulgach.github.io
-My site
 <!DOCTYPE html>
 <html lang="en">
 <head>
